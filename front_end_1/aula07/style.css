@@ -1,0 +1,21 @@
+body{
+
+    background-color: rgb(156, 151, 148);
+}
+
+#tituloPrincipal{
+
+    color: turquoise;
+
+}
+
+p{
+
+    color: tomato;
+}
+
+.texto-principal{
+
+    color: steelblue;
+    font-size: 24px;
+}
